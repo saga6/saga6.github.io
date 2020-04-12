@@ -8,12 +8,12 @@ description: "Technik neu denken."
 keyword: "Saga, automotive Software, EV, autonom, electric, Elektroauto, ADAS"
 url: "http://saga6.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/saga6/saga6.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Egal, weiter gehen"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Avatar_Saga.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -25,8 +25,6 @@ RSS: false
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
-
-
 
 
 # Build settings
